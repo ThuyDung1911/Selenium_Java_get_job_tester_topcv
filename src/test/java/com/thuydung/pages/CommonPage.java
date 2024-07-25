@@ -1,13 +1,13 @@
 package com.thuydung.pages;
 
 public class CommonPage {
-    public RegisterPage registerPage;
+    public JobPage jobPage;
 
-    public RegisterPage getRegisterPage() {
-        if (registerPage == null) {
-            registerPage = new RegisterPage();
+    public JobPage getJobPage() {
+        if (jobPage == null) {
+            jobPage = new JobPage();
         }
-        return registerPage;
+        return jobPage;
     }
 
 }

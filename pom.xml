@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.thuydung</groupId>
-    <artifactId>selenium-java-get-capcha</artifactId>
+    <artifactId>selenium-java-get-job_topCV</artifactId>
     <version>1.0.1</version>
 
     <properties>
